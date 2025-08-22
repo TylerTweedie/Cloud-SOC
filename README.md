@@ -1,4 +1,4 @@
-# PROJECTNAME
+# SOC Honeypot
 
 ## Objective
 
