@@ -1,4 +1,4 @@
-# SOC Honeypot
+# Azure SOC
 
 ## Objective
 
